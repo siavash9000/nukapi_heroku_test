@@ -1,3 +1,6 @@
+### Thank you very much for testing the nukapi heroku integration!
+
+0. Contact support@nukapi.com to get an invitation to the heroku test.
 1. If you don't have one create a Heroku account https://signup.heroku.com/
 2. Fork this repo on Github.
 3. Create an App on Heroku via the Heroku Web-Ui and connect your Github Account with the Heroku app
